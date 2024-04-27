@@ -1,7 +1,7 @@
 
 # Dio | Bootcamp Santander 🚀
 
-## 📒  Repositorio para exemplos e atividades do Bootcamp Santander | Dio
+## 📒  Repositorio para exemplos e atividades do Bootcamp Santander|Dio
 
 - ♨️ **Aprendendo a sintaxe Java**
  
