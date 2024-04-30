@@ -8,9 +8,9 @@
 
 - [x]  Introdução 
 - [x] Anatomia das Classes
-- [ ] Tipo de variáveis
-- [ ] Operadores
-- [ ] Métodos
+- [x] Tipo de variáveis
+- [x] Operadores
+- [x] Métodos
 - [ ] Escopo 
 - [ ] Palavras reservadas
 - [ ] Java Doc
