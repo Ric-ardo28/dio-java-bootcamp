@@ -11,7 +11,7 @@
 - [x] Tipo de variáveis
 - [x] Operadores
 - [x] Métodos
-- [ ] Escopo 
-- [ ] Palavras reservadas
+- [x] Escopo 
+- [x] Palavras reservadas
 - [ ] Java Doc
 - [ ] Terminal e argumentos  
