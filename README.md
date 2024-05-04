@@ -17,3 +17,15 @@
 - ♨️ ** Desafio de Projeto **
 - [x] Simular uma conta Bancaria atraves do terminal/console
       <img src="/contaBanco/img/Captura de tela 2024-05-01 130230.png">
+
+- ♨️ **Introdução e estruturas condicionais com Java**
+
+- [x] Introdução
+- [x] Estruturas condicionais
+
+- ♨️ **Estruturas de repetição em Java**
+
+- [x] Estruturas de repetição 
+
+
+
