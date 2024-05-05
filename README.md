@@ -27,5 +27,10 @@
 
 - [x] Estruturas de repetição 
 
+- ♨️ **Java tratamento de exceções**
+
+- [x] Estruturas excepcionais
+
+
 
 
