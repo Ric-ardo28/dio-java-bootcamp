@@ -9,5 +9,7 @@ public class CaixaEletronico  {
         }else
             System.out.println("Saldo insuficiente");
         System.out.println(saldo);
+
+        String salto1 = valorSolicitado < saldo ? "novo saldo " + (saldo += -valorSolicitado) : "saldo insuficiente";
     }
 }
