@@ -1,7 +1,4 @@
 import java.util.Scanner;
-
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class FluxoDesafio {
     public static void main(String[] args)  {
         Scanner sc = new Scanner(System.in);
@@ -12,10 +9,7 @@ public class FluxoDesafio {
         int numero2 = sc.nextInt();
 
         try {
-
             contador(numero1, numero2);
-
-
         }catch (Exception e)  {
             System.out.println("O segundo numero tem que ser maior que o primeiro numero!!!");
         }
@@ -27,11 +21,9 @@ public class FluxoDesafio {
         }
             int contar = numero2 - numero1;
 
-
             for (int i = numero1; i <= numero2; i++) {
                 System.out.println(i);
             }
         System.out.println("A diferença de " + numero1 + " para o numero " + numero2 + " é " + contar);
         } 
-
     }
