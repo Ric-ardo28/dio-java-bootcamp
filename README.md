@@ -3,7 +3,6 @@
 ## 📒  Repositorio para exemplos e atividades do Bootcamp Santander|Dio
 
 - ♨️ **Aprendendo a sintaxe Java**
- 
 - [x]  Introdução 
 - [x] Anatomia das Classes
 - [x] Tipo de variáveis
@@ -19,17 +18,26 @@
       <img src="/contaBanco/img/Captura de tela 2024-05-01 130230.png">
 
 - ♨️ **Introdução e estruturas condicionais com Java**
-
 - [x] Introdução
 - [x] Estruturas condicionais
 
 - ♨️ **Estruturas de repetição em Java**
-
 - [x] Estruturas de repetição 
 
 - ♨️ **Java tratamento de exceções**
-
 - [x] Estruturas excepcionais
+
+- ♨️ **Debugging Java**
+- [x] Apresentação e visão geral
+- [x] Pilha de execução de um programa Java
+- [x] Debugging na IDE IntelliJ
+
+- ♨️ **Criando Um Pequeno Sistema Para Validação de Processo Seletivo**
+
+- ♨️ **Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional**
+
+- ♨️ **Condições, Loops e Exceções na Prática com Java**
+
 
 
 
