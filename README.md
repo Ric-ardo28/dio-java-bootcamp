@@ -13,7 +13,7 @@
 - [x] Java Doc
 - [x] Terminal e argumentos  
 
-- ♨️ ** Desafio de Projeto **
+- ♨️ **Desafio de Projeto**
 - [x] Simular uma conta Bancaria atraves do terminal/console
       <img src="/contaBanco/img/Captura de tela 2024-05-01 130230.png">
 
@@ -36,9 +36,27 @@
 
 - ♨️ **Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional**
 
-- ♨️ **Condições, Loops e Exceções na Prática com Java**
+- ♨️ **Desafio de Cóndigo: Condições, Loops e Exceções na Prática com Java**
 
+- ♨️ **Fundamentos da programação orientada a objetos com Java**
+- [x] Introdução 
+- [x] Conceitos POO
+- [x] Classes
+- [x] Pacotes
+- [x] Visibilidade dos recursos
+- [x] Getter e Setters
+- [x] Construtores
+- [x] Enums
+- [x] UML
 
+- ♨️ **Pilares da Programação Orientada a Objetos em Java**
+- [x] Pilares do POO
+- [x] Encapsulamento
+- [x] Herança
+- [x] Abstração
+- [x] Polimorfismo
+- [x] Interface
 
-
-
+- ♨️ **Desafio de projeto**
+- [x] Modelando o iphone com UML: Funções de musicas, chamadas e internet
+     <img src="/desafioPoo/uml-iphone.png">
