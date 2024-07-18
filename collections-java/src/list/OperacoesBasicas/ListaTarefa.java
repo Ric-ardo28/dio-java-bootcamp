@@ -1,4 +1,4 @@
-package OperacoesBasicas;
+package list.OperacoesBasicas;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,9 +9,11 @@ public class ListaTarefa {
     public ListaTarefa() {
         this.tarefasList = new ArrayList<>();
     }
+
     public void adicionarTarefa(String descricao) {
         tarefasList.add(new Tarefas(descricao));
     }
+
     public void removerTarefa(String descricao) {
         List<Tarefas> tarefasParaRemover = new ArrayList<>();
         for (Tarefas t : tarefasList) {
@@ -25,6 +27,7 @@ public class ListaTarefa {
     public int obterNumeroTotalTarefas() {
         return tarefasList.size();
     }
+
     public void obterDescricaoTarefa() {
         System.out.println(tarefasList);
     }
@@ -42,9 +45,6 @@ public class ListaTarefa {
         System.out.println("O numero total de elementos na lista é : " + listaTarefa.obterNumeroTotalTarefas());
 
         listaTarefa.obterDescricaoTarefa();
-
-
-
 
 
     }

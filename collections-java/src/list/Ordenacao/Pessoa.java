@@ -1,4 +1,4 @@
-package Ordenacao;
+package list.Ordenacao;
 
 import java.util.Comparator;
 
@@ -39,6 +39,7 @@ public class Pessoa implements Comparable<Pessoa> {
         return Integer.compare(idade, p.getIdade());
     }
 }
+
 class ComparatorPorAltura implements Comparator<Pessoa> {
 
     @Override

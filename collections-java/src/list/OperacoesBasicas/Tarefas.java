@@ -1,4 +1,4 @@
-package OperacoesBasicas;
+package list.OperacoesBasicas;
 
 public class Tarefas {
     private String descricao;
@@ -13,6 +13,6 @@ public class Tarefas {
 
     @Override
     public String toString() {
-        return  descricao;
+        return descricao;
     }
 }
